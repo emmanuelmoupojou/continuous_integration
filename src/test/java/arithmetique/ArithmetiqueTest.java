@@ -9,4 +9,11 @@ public class ArithmetiqueTest {
     public void additionTest(){
         Assert.assertTrue(2==(1+1));
     }
+
+
+    @Test
+    public void multiplicationTest(){
+        Assert.assertTrue(2==(2*1));
+    }
+
 }
