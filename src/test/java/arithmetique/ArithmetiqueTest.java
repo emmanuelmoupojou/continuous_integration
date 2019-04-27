@@ -16,4 +16,9 @@ public class ArithmetiqueTest {
         Assert.assertTrue(2==(2*1));
     }
 
+
+    @Test
+    public void soustractionTest(){
+        Assert.assertTrue(2==(2-0));
+    }
 }

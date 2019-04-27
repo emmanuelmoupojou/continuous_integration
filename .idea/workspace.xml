@@ -6,16 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c54f17bd-c0e9-4a60-8737-efaa22c01c53" name="Default Changelist" comment="test auto compile-test-deploy">
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ContinuousIntegrationDemo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ContinuousIntegrationDemo_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="c54f17bd-c0e9-4a60-8737-efaa22c01c53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ContinuousIntegrationDemo_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ContinuousIntegrationDemo_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ContinuousIntegrationDemo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ContinuousIntegrationDemo_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
@@ -59,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="272">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +88,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Arithmetique.java" />
         <option value="$PROJECT_DIR$/src/test/java/arithmetique/Arithmetique.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java" />
       </list>
     </option>
   </component>
@@ -192,7 +186,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556382539778" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556382995039" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../junit-4.9.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -219,7 +213,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in ContinuousIntegrationDemo">
+    <configuration name="All in ContinuousIntegrationDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ContinuousIntegrationDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.27" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="ContinuousIntegrationDemo:war exploded">
@@ -258,6 +260,11 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ContinuousIntegrationDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -271,7 +278,7 @@
       <updated>1556118037968</updated>
       <workItem from="1556118045625" duration="7455000" />
       <workItem from="1556380512688" duration="1591000" />
-      <workItem from="1556382375361" duration="164000" />
+      <workItem from="1556382375361" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="maven framework added">
       <created>1556119077862</created>
@@ -287,11 +294,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556121359606</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test auto compile-test-deploy">
+      <created>1556382556397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556382556397</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9210000" />
+    <option name="totallyTimeSpent" value="9655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
@@ -337,7 +351,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maven framework added" />
     <MESSAGE value="test addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="test addition" />
+    <MESSAGE value="test auto compile-test-deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="test auto compile-test-deploy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/pages/index.jsp">
@@ -363,20 +378,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arithmetique/ArithmetiqueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
