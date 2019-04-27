@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="ContinuousIntegrationDemo-1.1-SNAPSHOT.war">
+    <root id="archive" name="ContinuousIntegrationDemo-1.2-SNAPSHOT.war">
       <element id="artifact" artifact-name="ContinuousIntegrationDemo:war exploded" />
     </root>
   </artifact>
